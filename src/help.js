@@ -108,9 +108,9 @@ const help = (prefix) => {
     
 
 ╔════════════════════
-  FEITO POR *DOKA*
+  FEITO POR *DARK*
   DUVIDAS? 👇
-  WA.me/558688429765
+  WA.me/5521997123716
 ╚════════════════════`
 }
 
