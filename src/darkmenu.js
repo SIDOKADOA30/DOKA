@@ -23,9 +23,9 @@ const darkmenu = (prefix) => {
 ➸ *${prefix}ayeko*
 
 ╔════════════════════
-  TRADUZIDO POR *DARK*
+  TRADUZIDO POR *DOKA*
   DUVIDAS? 👇
-  WA.me/+5521997123716
+  WA.me/+558688429765
 ╚════════════════════`
 }
 
